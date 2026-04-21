@@ -1,4 +1,4 @@
-- Add your name at the end:)
+- Add your name at the end :)
 - [Abhishek Bhattacharjee](https://github.com/MathCsAI)
 - [Damilola Aboyade](https://github.com/Dami-s-projects)
 - [Ritu Yadav](https://github.com/ritu2906yadav)
